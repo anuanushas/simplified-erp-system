@@ -30,5 +30,8 @@ To get a local copy up and running follow these simple steps.
 ```sh
 npm install npm@latest -g
 
-Projects Links: https://simplified-erp-system.vercel.app/
 ```
+
+### Projects
+
+Links: https://simplified-erp-system.vercel.app/
